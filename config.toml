@@ -1,0 +1,40 @@
+baseURL = "https://macguffinh.github.io/"
+locale = "en-ch"
+title = "MacGuffin的博客"
+theme = "hugo-theme-prav"
+
+pygmentsCodeFences = "true"
+pygmentsStyle = "perldoc"
+
+# If you want to track using GA or use disqus for comments, uncomment the 
+# following and add the correct values
+#googleanalytics = ""
+#disqusShortname = ""
+
+# The settings below are used throughout the theme.
+# Please update!
+[params]
+    title = "MacGuffin的博客"
+    tagline = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    author = "MacGuffin"
+    authorImgPath = "/img/156910889.jpg"
+    authorBlurb = "想当程序员一休尼"
+
+    # If you do not want a social icon, just comment it out
+    # Please update the example values!
+    [params.social]
+#        email = "mailto:example@example.com"
+#       facebook = "https://www.facebook.com/example"
+#        twitter = "http://twitter.com/example"
+#        twitteruser = "example"
+#        medium = "https://www.medium.com/@example"
+#        github = "https://github.com/example"
+#        linkedin = "http://uk.linkedin.com/in/example"
+
+
+# Set unsafe mode to allow markdownify to work with goldmark
+# This is important. Please do not delete. It is used to re-render markdown
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            unsafe = true
