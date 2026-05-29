@@ -8,6 +8,21 @@
         <managingEditor>MacGuffin</managingEditor>
         <webMaster>MacGuffin</webMaster>
         <copyright></copyright>
-        <lastBuildDate>Sun, 24 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+        <lastBuildDate>Fri, 29 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+            <item>
+                <title>找实习有感</title>
+                <link>http://localhost:1313/posts/%E6%89%BE%E5%AE%9E%E4%B9%A0%E6%9C%89%E6%84%9F/</link>
+                <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
+                <author>MacGuffin</author>
+                <guid>http://localhost:1313/posts/%E6%89%BE%E5%AE%9E%E4%B9%A0%E6%9C%89%E6%84%9F/</guid>
+                <description>&lt;p&gt;遗憾总是贯穿人生。&lt;/p&gt;
+&lt;p&gt;附《悬溺》歌词&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;我主张克制不了就放任
+悬上该有的天真
+起伏在于喜怒哀乐
+松了绳 大不了无人问
+&lt;/code&gt;&lt;/pre&gt;</description>
+            </item>
+        
     </channel>
 </rss>
